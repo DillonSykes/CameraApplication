@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_edit"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/edit"
+        app:showAsAction="always"
+        android:onClick="sketchPic"/>
+    <item
+        android:id="@+id/action_reset"
+        android:icon="@android:drawable/ic_menu_revert"
+        android:title="@string/reset"
+        app:showAsAction="always"
+        android:onClick="resetFunction"
+        />
+    <item
+        android:id="@+id/action_share"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="@string/share_action"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_colorize"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="@string/colorize_action"
+        app:showAsAction="always"
+        android:onClick="colorize"
+        />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="400"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+
+
+
+</menu>

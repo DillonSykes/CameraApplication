@@ -1,0 +1,4 @@
+#Fri Mar 02 00:20:39 EST 2018
+base.0=C\:\\Users\\jaydo\\Dropbox\\School CNU\\AndroidProgramming\\Assignment2\\P2_skel\\project2_Solution_color\\build\\intermediates\\transforms\\dexMerger\\debug\\61
+path.0=classes.dex
+renamed.0=classes.dex
